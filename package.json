@@ -1,0 +1,16 @@
+{
+  "name": "eth-connect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "http-server ./public -p 3000",
+    "test": "echo \"Error: no test specified\" && sexit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "dependencies": {}
+}
